@@ -1,0 +1,26 @@
+/* Fondo general */
+body {
+    background-color: #264653; /* Azul suave */
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+}
+
+/* Contenedor del formulario */
+.container-form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+}
+
+.container-form:hover {
+    transform: scale(1.02);
+}
+
+/* Encabezado */
+h1 {
+ color: #1a73e8;
+    font: size 2px;
+
+}
